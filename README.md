@@ -88,7 +88,7 @@ npm run test -- --coverage --coverageReporters=text
 
 7. You should see a print out showing the results of the test that looks like this: 
 
-![test results](https://user-images.githubusercontent.com/11747875/156975168-3b70725f-ecd6-40f0-bb28-d4171498217b.JPG)
+![Jest Palindrome Test](https://user-images.githubusercontent.com/11747875/156976986-43979dd2-722c-490f-884f-5e261db2cad2.JPG)
 
 12. Enjoy!
 <br>
