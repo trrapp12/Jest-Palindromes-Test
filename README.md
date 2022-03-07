@@ -38,9 +38,9 @@ Use of Jest to test basic functions.
 - [x] Use of package.json
 - [x] Use of webpack
 - [x] Use of Jest
-- [x] Use of toBe() tests 
+- [x] Use of toEqual() tests 
 - [x] Testing multiple conditions
-- [x] Classic "fizzBuzz" function
+- [x] Classic palindrome function
 - [x] An additional function of my own just for extra practice
 
 ### Instructions on how to launch:
