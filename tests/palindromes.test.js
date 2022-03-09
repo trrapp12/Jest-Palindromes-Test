@@ -1,4 +1,4 @@
-const palindromes = require('./palindromes')
+const palindromes = require('../palindromes')
 
 describe('palindromes()', ()=> {
   it('finds and returns words that are spelled the same forwards and backwards', () => {
