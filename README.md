@@ -7,6 +7,10 @@
 
 <br>
 
+https://user-images.githubusercontent.com/11747875/159598795-768eb93a-6918-4daf-bba7-7a14f61d1cdf.mp4
+
+<br>
+
 [![View Project](https://user-images.githubusercontent.com/11747875/141705232-471a0b9c-ca45-4540-a1b6-740c5e1becbe.png)](https://trrapp12.github.io/Jest-Palindromes-Test/)
 
 <br>
