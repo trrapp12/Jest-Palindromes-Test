@@ -14,11 +14,11 @@
 
 <br>
 
-https://user-images.githubusercontent.com/11747875/159598795-768eb93a-6918-4daf-bba7-7a14f61d1cdf.mp4
+[![View Project](https://user-images.githubusercontent.com/11747875/141705232-471a0b9c-ca45-4540-a1b6-740c5e1becbe.png)](https://trrapp12.github.io/Jest-Palindromes-Test/)
 
 <br>
 
-[![View Project](https://user-images.githubusercontent.com/11747875/141705232-471a0b9c-ca45-4540-a1b6-740c5e1becbe.png)](https://trrapp12.github.io/Jest-Palindromes-Test/)
+https://user-images.githubusercontent.com/11747875/159598795-768eb93a-6918-4daf-bba7-7a14f61d1cdf.mp4
 
 <br>
 
@@ -38,13 +38,19 @@ https://user-images.githubusercontent.com/11747875/159598795-768eb93a-6918-4daf-
 
 ### Description:
 
+>"My goal is to feel better about a project after a year
+>than I did in the starry-eyed beginning,
+>and TDD helps me achieve this"
+>
+> -- Kent Beck
+
+*This project is a simple practice in unit testing.*
+
+<br/>
 
 ---
 
-Use of Jest to test basic functions. 
-
-### Project v1.0 demonstrates the following:
----
+### PROJECT DEMONSTRATES
 
 - [x] Use of package.json
 - [x] Use of webpack
@@ -54,7 +60,11 @@ Use of Jest to test basic functions.
 - [x] Classic palindrome function
 - [x] An additional function of my own just for extra practice
 
-### Instructions on how to launch:
+<br/>
+
+---
+
+### QUICK START INSTRUCTIONS
 
 
 1. Open your IDE of choice
@@ -102,29 +112,45 @@ npm run test -- --coverage --coverageReporters=text
 ![Jest Palindrome Test](https://user-images.githubusercontent.com/11747875/156976986-43979dd2-722c-490f-884f-5e261db2cad2.JPG)
 
 12. Enjoy!
-<br>
-<br>
+
+<br/>
 
 ---
 
+### PROJECT DEMONSTRATES
 
-### Project published at: 
+- [X] simple unit test in Jest
+
+<br/>
+
 ---
 
-[Jest Test Driven Fizz Buzz](https://trrapp12.github.io/Jest-Palindromes-Test/)
+### CHALLENGES I OVERCAME
 
-### More Information:
+- [X] This was pretty straight forward.  I followed the instructions and completed the exercises.
+
+<br/>
+
 ---
+
+### PERSONAL CONTRIBUTIONS
+
+- [X] Completing the tutorial.
+
+<br/>
+
+---
+
+### ATTRIBUTIONS
+
+* *Excerpted from "Test-Driven React", published by The Pragmatic Bookshelf. Copyrights apply to this code. It may not be used to create training material, courses, books, articles, and the like. Contact us if you are in doubt.*
+
+<br/>
+
+---
+
+### YOU CAN FIND ME AT:
 
 \**For more information see my [LinkedIn](https://www.linkedin.com/in/trevor-rapp-042a1037) or return to my [Github](https://github.com/trrapp12)*
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 
